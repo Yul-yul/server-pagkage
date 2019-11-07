@@ -1,0 +1,34 @@
+[
+    {
+        "databasesName": "我的第一个数据库",
+        "dialect": "mysql",
+        "username": "root",
+        "password": "123456",
+        "prot": "3306",
+        "note": "备注备注备注备注备注备注"
+    },
+    {
+        "databasesName": "我的第二个数据库",
+        "dialect": "orader",
+        "username": "admin",
+        "password": "admin",
+        "prot": "3308",
+        "note": "我是第二个数据库"
+    },
+    {
+        "databasesName": "我的第三个数据库",
+        "dialect": "mongdDB",
+        "username": "admin123",
+        "password": "admin123",
+        "prot": "330811",
+        "note": "我是第s个数据库"
+    },
+    {
+        "databasesName": "这是一个用新增抽屉增加的数据",
+        "dialect": "sqlserver",
+        "username": "adminadmin",
+        "password": "passpass",
+        "prot": "1234",
+        "note": "备注备注"
+    }
+]

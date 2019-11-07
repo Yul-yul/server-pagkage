@@ -1,0 +1,53 @@
+[
+    {
+        "serverName": "eureka",
+        "port": "8763",
+        "version": "1.2.1",
+        "databasesKey": "mysql",
+        "jarName": "eureka-1.0.1.jar",
+        "schema": "spare-part",
+        "IP": "localhost",
+        "note": "bei123123213",
+        "spring": []
+    },
+    {
+        "serverName": "auth",
+        "jarName": "auth-server-1.4.2.jar",
+        "schema": "213",
+        "note": "213",
+        "spring": []
+    },
+    {
+        "serverName": "log",
+        "port": "8763",
+        "version": "1.2.1",
+        "databasesKey": "mysql",
+        "jarName": "eureka-1.0.1.jar",
+        "schema": "spare-part",
+        "IP": "localhost",
+        "note": "bei123123213",
+        "spring": []
+    },
+    {
+        "serverName": "gateway",
+        "port": "8763",
+        "version": "1.2.1",
+        "databasesKey": "mysql",
+        "jarName": "eureka-1.0.1.jar",
+        "schema": "spare-part",
+        "IP": "localhost",
+        "note": "bei123123213",
+        "spring": []
+    },
+    {
+        "serverName": "spare",
+        "port": "8763",
+        "version": "1.2.1",
+        "databasesKey": "mysql",
+        "jarName": "eureka-1.0.1.jar",
+        "schema": "spare-part",
+        "IP": "localhost",
+        "note": "bei123123213",
+        "spring": []
+    }
+]
